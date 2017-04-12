@@ -1,5 +1,5 @@
 #!/bin/bash
-# Installs Square's IntelliJ configs into your user configs.
+# Installs OSAndroid Code style into your AndroidStudio/IntelliJ 
 
 echo "Installing Oversea Android Code Style ..."
 
